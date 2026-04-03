@@ -1,0 +1,16 @@
+# Godot 4+
+.godot/
+/android/
+
+# Archivos de exportación (opcionales pero recomendado ignorar)
+.export/
+export.cfg
+export_presets.cfg
+
+# Temporales
+*.tmp
+*.log
+
+# Sistema
+.DS_Store
+Thumbs.db
